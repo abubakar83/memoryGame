@@ -18,3 +18,18 @@ html {
     --gap: 1rem;
     --time: .5s
 }
+.container {
+    height: 100svh;
+    display: grid;
+    place-items: center;
+}
+.playground {
+    background-color: #f7eedd;
+    width: 90vmin;
+    height: 90vmin;
+    border-radius: var(--gap);
+}
+.modal {
+    position: fixed;
+    inset: 0;
+}
