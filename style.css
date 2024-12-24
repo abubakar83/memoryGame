@@ -57,3 +57,13 @@ html {
     align-items: center;
     column-gap: var(--gap)
 }
+.modal-time > span{
+    font-size: 1.8rem;
+    color: var(--gray);
+}
+.modal-text {
+    font-size: 1.8rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: var(--light-gray);
+}
