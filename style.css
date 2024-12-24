@@ -101,3 +101,6 @@ html {
     font-size: 1.6rem;
     width: 2.7rem;
 }
+.timer span:last-child {
+    margin-left: 0.5rem;
+}
