@@ -48,5 +48,7 @@ html {
     border-radius: var(--gap);
 }
 .modal-heading {
-
+    font-size: 4rem;
+    color: var(--light-gray);
+    margin-bottom: var(--gap);
 }
