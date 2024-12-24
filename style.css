@@ -35,6 +35,8 @@ html {
     background-color: rgba(119, 118, 115, 0.604);
     display: grid;
     place-items: center;
+    opacity: 0;
+     visibility: hidden;
 }
 .modal-content {
     display: flex;
