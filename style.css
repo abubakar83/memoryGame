@@ -82,3 +82,12 @@ html {
     margin-top: 2rem;
     cursor: pointer;
 }
+.features {
+    display: flex;
+    align-items: center;
+    column-gap: 3rem;
+}
+.features .restart-btn {
+    margin: 0;
+    font-size: 1rem;
+}
