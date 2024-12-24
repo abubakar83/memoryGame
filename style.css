@@ -91,3 +91,13 @@ html {
     margin: 0;
     font-size: 1rem;
 }
+.timer {
+    font-family: "Orbitron", sans-serif;
+    font-size: 1.3rem;
+    color: var(--blue);
+}
+.timer span {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 1.6rem;
+    width: 2.7rem;
+}
