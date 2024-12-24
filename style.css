@@ -52,3 +52,8 @@ html {
     color: var(--light-gray);
     margin-bottom: var(--gap);
 }
+.modal-time {
+    display: flex;
+    align-items: center;
+    column-gap: var(--gap)
+}
