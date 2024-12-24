@@ -67,3 +67,10 @@ html {
     text-transform: uppercase;
     color: var(--light-gray);
 }
+.btn {
+    box-sizing: content-box;
+    padding: 0.5rem 1rem;
+    background-color: var(--blue);
+    border: none;
+    border-radius: 0.5rem;
+}
